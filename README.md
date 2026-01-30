@@ -67,7 +67,7 @@ scan  % 基本解析実行
 
 ### 3. 拡張可能な初期たわみ量の詳細な探索
 ```matlab
-cd kakutyoukanoujouken/current/グラフ作り/
+cd kakutyoukanoujouken/current/機能追加版/
 untitled_optimized  % 推奨（高速）
 
 ```
